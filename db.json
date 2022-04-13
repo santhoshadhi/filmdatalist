@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id": "102",
+      "name": "No Country for Old Men",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
+      "rating": 8.1,
+      "trailer": "https://www.youtube.com/embed/38A__WT3-o0"
+    },
+    {
+      "id": "104",
+      "name": "The Avengers",
+      "rating": 8,
+      "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_crd_05.jpg",
+      "trailer": "https://www.youtube.com/embed/eOrNdBpGMv8"
+    }
+  ]
+}
